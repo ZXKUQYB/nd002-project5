@@ -10,7 +10,7 @@ The project is composed of 3 separate Jupyter notebook files.
 - [02_slide_deck_presentation.ipynb](https://github.com/ZXKUQYB/nd002-project5/blob/main/02_slide_deck_presentation.ipynb) : The presentation part of the project. This notebook is actually a slideshow template, and should be opened in **Classic Notebook** interface to configure the slideshow settings of all code cells before converting this notebook to a HTML slideshow. Notice that not all the plots/charts created in the previous notebook are presented here, only the emphasized ones.
 - [03_summary_report.ipynb](https://github.com/ZXKUQYB/nd002-project5/blob/main/03_summary_report.ipynb) : The ending part of the project, which serves as a brief summary of both the exploratory analysis and the explanatory presentation.
 
-Feel free to download any of the Jupyter notebook files listed above to have a look at the project contents.
+Feel free to download any of the Jupyter notebook files listed above to have a look at the project contents, and the zipped CSV file in the [data](https://github.com/ZXKUQYB/nd002-project5/tree/main/data) directory if you want to run the program code.
 
 Like previous projects, it is recommended to use a temporary Jupyter server offered by [Project Jupyter](https://jupyter.org/try) to setup a test run of these notebooks. Be sure to choose **JupyterLab** when you get your temporary Jupyter server, since it comes with all the Python modules needed for this project already installed. But of course, you can also run it in your own local environment instead, but the instructions to configure a local environment will not be covered here.
 
