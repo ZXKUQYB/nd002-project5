@@ -1,4 +1,4 @@
-# Communicate Data Findings
+# Prosper Loan Data Exploration and Analysis
 
 This is a personal project which focuses on the *exploratory analysis* step in the entire data analysis process, as well as the *data visualization* practices which would play a big role in any data analysis task.
 
