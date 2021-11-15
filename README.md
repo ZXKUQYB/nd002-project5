@@ -16,7 +16,7 @@ Like previous projects, it is recommended to use a temporary Jupyter server offe
 
 ### Additional Information
 
-In this repository, there are also some static, soft copies of the Jupyter notebook files, as well as a slideshow, both created in HTML format by using [nbconvert](https://nbconvert.readthedocs.io), which are provided for your convenience. You can see the results of the project directly online without running the program code, especially when you use some online preview services such as [GitHub & BitBucket HTML Preview](https://htmlpreview.github.io/) to render them.
+In this repository, there are also some static, soft copies of the Jupyter notebook files, as well as a slideshow, both created in HTML format by using [nbconvert](https://nbconvert.readthedocs.io), which are provided for your convenience. You can see most of the project results directly online without running the program code, especially when you use some online preview services such as [GitHub & BitBucket HTML Preview](https://htmlpreview.github.io/) to render them. This means you should still download these HTML documents if you want to ensure you read the fully rendered contents.
 
 ### Issues
 
